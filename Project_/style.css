@@ -1,0 +1,56 @@
+﻿a:link{background-color:none; color:#0099ff; text-decoration:none;}
+a:visited{background-color:none; color:#0066ff; text-decoration:none;}	
+a:hover{background-color:#ffff99; color:red; text-decoration:none;}
+a:active{background-color:yellow; color:green; text-decoration:none;}
+
+//a:link - a normal, unvisited link
+//a:visited - a link the user has visited
+//a:hover - a link when the user mouses over it
+//a:active - a link the moment it is clicked
+
+body
+	{
+	background-color:#dfdfdf; 
+	}
+	
+.menu
+	{
+	text-align:center;
+	font-size:18px;
+	font-family:Arial;
+	color:blue;
+	}
+	
+.header
+	{
+	text-align:center;
+	font-family:Arial;
+	font-size:25px;
+	color:#0099ff;
+	}
+	
+.content_index
+	{
+	text-align:center;
+	font-family:Arial;
+	font-size:18px;
+	color:#fb3845;
+	}
+	
+.content_pages
+		{
+		text-align:left;
+		font-family:Arial;
+		font-size:18px;
+		color:#5a5a5a;
+		}
+	
+.content_maters
+		{
+		text-align:center;
+		font-family:Arial;
+		font-size:18px;
+		color:#5a5a5a;	
+		}
+
+
